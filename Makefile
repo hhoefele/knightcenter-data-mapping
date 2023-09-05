@@ -11,4 +11,5 @@ directories:
 	-mkdir tmp
 	-mkdir data
 
-downloads:
+downloads: 
+	curl ""
